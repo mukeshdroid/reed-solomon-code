@@ -1,5 +1,6 @@
-## Reed Solomon Code Implementation
+# SageMath Implementation of Reed Solomon Code 
 
+## Instructions
 Open the rsdemo file to test RS code.
 currenlty the Galois Field is hardcoded
 
